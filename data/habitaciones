@@ -1,0 +1,35 @@
+00;estandar;Sencilla;Aire,Plancha,RopaTapetes,Secador,TomaA,Desayuno
+01;estandar;Sencilla,Sencilla;Calefaccion,Plancha,Secador,TomaC,Desayuno
+02;estandar;Sencilla,Doble;Tv,Plancha,Secador,TomaA,TomaC,Desayuno
+03;estandar;Sencilla,Sencilla,Doble;RopaTapetes,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+04;estandar;Sencilla,Doble,Doble;Calefaccion,Cafetera,Secador,TomaA,TomaC
+05;estandar;Doble;Aire,RopaTapetes,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+06;estandar;Doble;Aire,RopaTapetes,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+07;estandar;Doble,Doble;Calefaccion,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+08;suite;Doble;Aire,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+09;suite;Doble,Doble;RopaTapetes,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+10;suite;Doble,Doble;Calefaccion,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+11;suite;Queen;Aire,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+13;suite;Doble,Doble,Queen;Calefaccion,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+14;suite doble;King;Aire,Tv,RopaTapetes,Plancha,Secador,TomaA,TomaC
+15;suite doble;King;Aire,Tv,RopaTapetes,Plancha,Secador,TomaA,TomaC
+16;suite doble;King,Queen;Aire,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+17;suite doble;King,Queen;Aire,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+18;suite doble;King,King;Calefaccion,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+19;suite doble;King;RopaTapetes,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+20;estandar;Sencilla,Doble;Tv,Plancha,Secador,TomaA,TomaC,Desayuno
+21;suite;Doble,Doble;Calefaccion,Tv,Cafetera,Plancha
+22;estandar;Doble,Doble,Queen,Queen,Queen;Calefaccion,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+23;estandar;Doble,King,King,King;Aire,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+24;suite;Doble,Doble;Calefaccion,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+25;estandar;Sencilla,Sencilla,Doble,Doble;Aire,Tv,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+26;suite doble;King,Queen;Aire,Tv,Cafetera,Plancha,RopaTapetes,TomaA,TomaC,Desayuno
+27;estandar;Sencilla,Sencilla;RopaTapetes,Tv,Cafetera,TomaA,TomaC,Desayuno
+28;suite;Queen;Aire,Tv,Secador,TomaA,TomaC,Desayuno
+29;suite doble;King;Aire,Cafetera,Plancha,Secador,TomaA,TomaC,Desayuno
+30;suite;Queen,Queen;RopaTapetes,Plancha,Secador,TomaA,TomaC,Desayuno
+31;suite doble;Sencilla,Doble,Doble,Doble;Plancha,Secador,TomaA,TomaC
+32;estandar;Sencilla,Queen;Tv,Plancha,Secador,TomaA,TomaC,Desayuno
+34;suite;Doble,Doble,Queen;Aire,Calefaccion,Tv,Cafetera,Plancha
+33;suite;Doble,Doble,Queen,Queen,Queen;Calefaccion,Tv,Cafetera,Plancha,TomaA
+12;suite doble;Doble,Queen,King;Calefaccion,Tv,Cafetera,Plancha,Secador,TomaC,Desayuno
